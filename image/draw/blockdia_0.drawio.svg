@@ -1,0 +1,17 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1161px" height="821px" viewBox="-0.5 -0.5 1161 821" content="&lt;mxfile&gt;&lt;diagram id=&quot;dR2Ho9TRi8oT0yPjpQKJ&quot; name=&quot;Page-1&quot;&gt;lZTBkpswDIafhmsG45SW45Zdtod2pjM59LjjgAKeGsQYJZB9+trBgAnZaTs5xPol2Zb04YCn9fCqRVv9wAJUEIXFEPDnIIpYuA/Nn1WuoxKH8SiUWhYuaBEO8h2mTKeeZQHdKpAQFcl2LebYNJDTShNaY78OO6Fan9qKEjbCIRdqq/6SBVVOZXGyOL6BLCt39Jfo8+ioxRTsKukqUWDvSfwl4KlGpHFVDyko27ypL2Ne9oF3vpiGhv4lgbvGX4Q6u+Lcxeg6VdtXkuDQitzavZlowL9WVCtjMbPsSONvSFGhvsVz9mR/xnPChjyd8yzj3OpSKU9PkjTNsjCc95p6anev8SKOt5tYv4ZOvvs2kiDPNqCBb0MhfdPx4CnbfrkWXkATDJ7k+vcKWAPpqwnpV6N3A61WY3eicLyVc/IyErNwU3k8oX309wnZy0qD53dxBPUTO0kSG+M6IhHWpkw8k5KNGdL0PdjahZKljcpN7aBt90RXQeG83oSn7Z9cAqFFwKDb2vProbRf+a6VxS7HujUz6lB3O5G/CanfFsnkmMhCwoqK0+nI43hLxT4PwyTxcp6lNncfCwPR0SP0RpRW2LA7bNgdNuwOG7bGhm2wYTM2G0YekLTFxiVwx4Z7Amfbo4qHD6Biyaf/hsqYy5Ny83kPM3/5Aw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="mx-gradient-4c0099-1-ffb366-1-e-0">
+            <stop offset="0%" style="stop-color: rgb(76, 0, 153); stop-opacity: 1;"/>
+            <stop offset="100%" style="stop-color: rgb(255, 179, 102); stop-opacity: 1;"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <rect x="0" y="0" width="1160" height="820" fill="#99ccff00" stroke="#1a1a1a" pointer-events="all"/>
+        <path d="M 53.38 304.56 L 306.62 304.56 C 330 341.48 330 388.08 306.62 425 L 53.38 425 C 30 388.08 30 341.48 53.38 304.56 Z" fill="url(#mx-gradient-4c0099-1-ffb366-1-e-0)" stroke="#99ccff" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="53.97" y="304.56" width="251.47" height="120.44" fill="url(#mx-gradient-4c0099-1-ffb366-1-e-0)" stroke="#99ccff" pointer-events="all"/>
+        <ellipse cx="138.78" cy="284.49" rx="11.778563015312132" ry="11.470588235294118" fill="url(#mx-gradient-4c0099-1-ffb366-1-e-0)" stroke="#99ccff" pointer-events="all"/>
+        <ellipse cx="228.59" cy="275.88" rx="23.557126030624264" ry="22.941176470588236" fill="url(#mx-gradient-4c0099-1-ffb366-1-e-0)" stroke="#99ccff" pointer-events="all"/>
+        <path d="M 136.21 273.3 L 222.26 254.15 M 138.86 296.36 L 228.14 299.02 M 81.35 304.56 L 81.35 291.65 M 68.1 291.65 L 81.35 277.32 M 81.35 230 L 81.35 277.32 M 71.05 254.09 L 92.25 272.15 M 73.99 246.35 L 90.78 260.11 M 75.76 238.6 L 88.72 250.07 M 290.42 304.56 L 290.42 294.52" fill="none" stroke="#99ccff" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 68.1 264.41 L 96.08 291.65 L 68.1 291.65 Z M 281.59 264.41 L 299.26 264.41 L 281.59 294.52 L 299.26 294.52 Z" fill="url(#mx-gradient-4c0099-1-ffb366-1-e-0)" stroke="#99ccff" stroke-miterlimit="10" pointer-events="all"/>
+    </g>
+</svg>
